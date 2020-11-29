@@ -1,0 +1,6 @@
+[submodule "crosstool-NG"]
+	path = crosstool-NG
+	url = https://github.com/espressif/crosstool-NG.git
+[submodule "ESP8266_RTOS_SDK"]
+	path = ESP8266_RTOS_SDK
+	url = git@github.com:hulifox008/ESP8266_RTOS_SDK.git
